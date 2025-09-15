@@ -1,16 +1,334 @@
-## Hi there 👋
+<!-- Animated Wave Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Md%20Belal%20Ansari&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Building%20Tomorrow&descAlignY=55&descAlign=50)
 
-<!--
-**Belalgrd/Belalgrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Coding+for+a+better+tomorrow;Passionate+about+building+things;Open+Source+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Social Links with Badges -->
+<p align="center">
+  <a href="https://twitter.com/qbal_aadil_grd"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/md-belal-ansari-885182227"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0008-8413-5936"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white"/></a>
+  <a href="https://portfolio-frontend-ten-blond.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Belalgrd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<!-- About Me Section with Cool Formatting -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 👨‍💻 About Me
+
+- 🔭 I'm currently working on **innovative web solutions**
+- 🌱 I'm currently learning **Cloud Architecture & DevOps**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, Full Stack Development**
+- 📫 How to reach me: **belal.grd.999@gmail.com**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
+
+<br clear="both">
+
+<!-- Tech Stack with Animated Icons -->
+### 🚀 Tech Stack
+
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<!-- GitHub Stats with Dark Theme -->
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Belalgrd&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belalgrd&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belalgrd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<!-- Activity Graph -->
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belalgrd&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+</p>
+
+<!-- Complete Project Showcase -->
+### 🚀 My Projects Universe
+
+#### 🌟 Featured Projects
+<p align="center">
+  <a href="https://github.com/Belalgrd/billing-software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=billing-software&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Belalgrd/Auth-Form">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Auth-Form&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+#### 🎮 Games & Interactive Projects
+<p align="center">
+  <a href="https://github.com/Belalgrd/Rock-Paper-Scissors">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Rock-Paper-Scissors&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Belalgrd/tic-tac-toes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=tic-tac-toes&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+#### 🌐 Web Applications
+<p align="center">
+  <a href="https://github.com/Belalgrd/facebook-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=facebook-clone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Belalgrd/Health-News">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Health-News&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Belalgrd/weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Belalgrd/Quiz-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Quiz-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+#### 🛠️ Tools & Utilities
+<p align="center">
+  <a href="https://github.com/Belalgrd/ocr-info-extractor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=ocr-info-extractor&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Belalgrd/to-do-list">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=to-do-list&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Belalgrd/currency-converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=currency-converter&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Belalgrd/password-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=password-generator&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+#### 📱 Components & UI
+<p align="center">
+  <a href="https://github.com/Belalgrd/Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Card&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Belalgrd/netflix-homepage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=netflix-homepage&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+#### 🎯 Portfolio & Personal
+<p align="center">
+  <a href="https://github.com/Belalgrd/portfolio-Bk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=portfolio-Bk&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Belalgrd/Belalgrd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Belalgrd&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<!-- Project Statistics -->
+### 📊 Project Statistics
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Repositories-21-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Public%20Repos-21-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Main%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</div>
+
+<!-- Trophy Section -->
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Belalgrd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy" />
+</p>
+
+<!-- Skills Progress Bars -->
+### 💪 Skills Progress
+
+<div align="center">
+
+| Skill | Progress |
+|-------|----------|
+| JavaScript | ![95%](https://progress-bar.dev/95?title=95%&width=200&color=F7DF1E) |
+| React | ![85%](https://progress-bar.dev/85?title=85%&width=200&color=61DAFB) |
+| Node.js | ![80%](https://progress-bar.dev/80?title=80%&width=200&color=339933) |
+| CSS/HTML | ![95%](https://progress-bar.dev/95?title=95%&width=200&color=1572B6) |
+| Python | ![65%](https://progress-bar.dev/65?title=65%&width=200&color=3776AB) |
+| MongoDB | ![75%](https://progress-bar.dev/75?title=75%&width=200&color=47A248) |
+| Git/GitHub | ![90%](https://progress-bar.dev/90?title=90%&width=200&color=F05032) |
+
+</div>
+
+<!-- Random Dev Quote -->
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<!-- Snake Animation -->
+### 🐍 My Contributions
+
+<p align="center">
+  <img src="https://github.com/Belalgrd/Belalgrd/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> **Note:** If the snake animation doesn't appear, you'll need to set up GitHub Actions. See instructions at the end of this README.
+
+<!-- Metrics -->
+### 📊 Detailed Metrics
+
+<details>
+<summary><b>⚡ More Stats</b></summary>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belalgrd&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Belalgrd&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Belalgrd&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Belalgrd&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Belalgrd&theme=tokyonight" alt="Productive Time" />
+</p>
+</details>
+
+<!-- Footer Wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+
+<!-- Connect Section -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  Connect with me 🤝
+</h3>
+
+<p align="center">
+  <em>
+    Feel free to reach out for collaborations or just a friendly chat! <br>
+    Open to exciting opportunities and interesting projects.
+  </em>
+</p>
+
+<!-- Visitor Map -->
+### 🌍 Visitor Map
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Belalgrd&icon=5&color=0" alt="Visitor Count" />
+</p>
+
+<!-- Support Section -->
+### 💖 Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/belalgrd">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://github.com/sponsors/Belalgrd">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
+  </a>
+</p>
+
+<!-- Fun Facts -->
+### 🎯 Quick Facts
+
+<div align="center">
+
+| 🎓 Education | 🌍 Location | 💼 Status | 🎯 Focus |
+|-------------|------------|-----------|----------|
+| CS Student | India | Open to Work | Full Stack Development |
+
+</div>
+
+<!-- Achievements -->
+### 🏅 Achievements
+
+<div align="center">
+
+- 🎯 **21+ Repositories** created and maintained
+- 🔥 **365+ Contributions** in the last year
+- 👥 **Growing Network** of developers and collaborators
+- 📚 **Continuous Learner** - Always exploring new technologies
+- 🌟 **Open Source Contributor** - Passionate about giving back to the community
+
+</div>
+
+<!-- Currently Learning -->
+### 📚 Currently Learning
+
+<div align="center">
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+<!-- Goals -->
+### 🎯 2024 Goals
+
+- [ ] Contribute to 5+ major open source projects
+- [ ] Build and deploy 3 full-stack applications
+- [ ] Learn cloud architecture and get AWS certified
+- [ ] Write technical blog posts to help the community
+- [ ] Mentor junior developers
+- [ ] Reach 500+ GitHub followers
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+</p>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+</div>
+
+---
+
+<p align="center">
+  <em>⭐️ From <a href="https://github.com/Belalgrd">Belalgrd</a> with 💙</em>
+</p>
+
+<!-- Wave Animation at the very end -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
+</p>
