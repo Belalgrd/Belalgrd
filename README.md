@@ -172,20 +172,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Belalgrd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy" />
 </p>
 
-<!-- Skills Progress Bars -->
 ### 💪 Skills Progress
 
 <div align="center">
 
-| Skill | Progress |
-|-------|----------|
-| JavaScript | ![95%](https://progress-bar.dev/95?title=95%&width=200&color=F7DF1E) |
-| React | ![85%](https://progress-bar.dev/85?title=85%&width=200&color=61DAFB) |
-| Node.js | ![80%](https://progress-bar.dev/80?title=80%&width=200&color=339933) |
-| CSS/HTML | ![95%](https://progress-bar.dev/95?title=95%&width=200&color=1572B6) |
-| Python | ![65%](https://progress-bar.dev/65?title=65%&width=200&color=3776AB) |
-| MongoDB | ![75%](https://progress-bar.dev/75?title=75%&width=200&color=47A248) |
-| Git/GitHub | ![90%](https://progress-bar.dev/90?title=90%&width=200&color=F05032) |
+| Skill | Proficiency |
+|-------|-------------|
+| JavaScript | ████████████████████ 95% |
+| React | █████████████████░░░ 85% |
+| Node.js | ████████████████░░░░ 80% |
+| CSS/HTML | ████████████████████ 95% |
+| Python | █████████████░░░░░░░ 65% |
+| MongoDB | ███████████████░░░░░ 75% |
+| Git/GitHub | ██████████████████░░ 90% |
 
 </div>
 
