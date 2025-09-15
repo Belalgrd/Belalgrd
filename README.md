@@ -80,86 +80,42 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belalgrd&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </p>
 
-<!-- Complete Project Showcase -->
-### 🚀 My Projects Universe
+### 🚀 Featured Projects
 
-#### 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/Belalgrd/Belalgrd-delivera-lite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Belalgrd-delivera-lite&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Belalgrd/Belalgrd-delivera-lite">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Belalgrd-delivera-lite&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Belalgrd/billing-software">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=billing-software&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Belalgrd/ocr-info-extractor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=ocr-info-extractor&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Belalgrd/Rock-Paper-Scissors">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Rock-Paper-Scissors&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <a href="https://github.com/Belalgrd?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%2021+%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2F81F7" alt="View All Projects" />
   </a>
-  <a href="https://github.com/Belalgrd/billing-software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=billing-software&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-#### 🎮 Games & Interactive Projects
-<p align="center">
-  <a href="https://github.com/Belalgrd/Rock-Paper-Scissors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Rock-Paper-Scissors&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Belalgrd/tic-tac-toes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=tic-tac-toes&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-#### 🌐 Web Applications
-<p align="center">
-  <a href="https://github.com/Belalgrd/facebook-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=facebook-clone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Belalgrd/Health-News">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Health-News&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Belalgrd/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Belalgrd/Quiz-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Quiz-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-#### 🛠️ Tools & Utilities
-<p align="center">
-  <a href="https://github.com/Belalgrd/ocr-info-extractor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=ocr-info-extractor&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Belalgrd/to-do-list">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=to-do-list&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Belalgrd/currency-converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=currency-converter&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Belalgrd/password-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=password-generator&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-#### 📱 Components & UI
-<p align="center">
-  <a href="https://github.com/Belalgrd/Card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Card&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Belalgrd/netflix-homepage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=netflix-homepage&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-#### 🎯 Portfolio & Personal
-<p align="center">
-  <a href="https://github.com/Belalgrd/portfolio-Bk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=portfolio-Bk&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Belalgrd/Belalgrd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Belalgrd&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
+</div>
 
 <!-- Project Statistics -->
 ### 📊 Project Statistics
