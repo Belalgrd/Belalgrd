@@ -200,10 +200,7 @@
 ### 🐍 My Contributions
 
 <p align="center">
-  <img src="https://github.com/Belalgrd/Belalgrd/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-> **Note:** If the snake animation doesn't appear, you'll need to set up GitHub Actions. See instructions at the end of this README.
+<img src="https://raw.githubusercontent.com/Belalgrd/Belalgrd/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
 
 <!-- Metrics -->
 ### 📊 Detailed Metrics
