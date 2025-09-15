@@ -26,11 +26,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **innovative web solutions**
-- 🌱 I'm currently learning **Cloud Architecture & DevOps**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Full Stack Development**
+- 🔭 I'm currently working as **Freelance AI Training Contributor at Outlier AI**
+- 🌱 I'm currently learning **AI/ML, Cloud Architecture & Advanced Prompt Engineering**
+- 👯 I'm looking to collaborate on **Open Source Projects & AI/ML Solutions**
+- 💬 Ask me about **MERN Stack, AI/ML Integration, Prompt Engineering**
 - 📫 How to reach me: **mohd.belal.ans@gmail.com**
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/belal-ansari-grd)
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
 
 <br clear="both">
@@ -40,18 +41,22 @@
 
 <div align="center">
   
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Current badges... plus add these: -->
+![HTML5](https://img.shields.io/badge/html5-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -80,11 +85,11 @@
 
 #### 🌟 Featured Projects
 <p align="center">
+  <a href="https://github.com/Belalgrd/Belalgrd-delivera-lite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Belalgrd-delivera-lite&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
   <a href="https://github.com/Belalgrd/billing-software">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=billing-software&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Belalgrd/Auth-Form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Auth-Form&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
@@ -182,7 +187,8 @@
 | React | █████████████████░░░ 85% |
 | Node.js | ████████████████░░░░ 80% |
 | CSS/HTML | ████████████████████ 95% |
-| Python | █████████████░░░░░░░ 65% |
+| Python | ███████████████░░░░░ 75% |
+| AI/ML | ██████████████░░░░░░ 70% |
 | MongoDB | ███████████████░░░░░ 75% |
 | Git/GitHub | ██████████████████░░ 90% |
 
@@ -271,10 +277,22 @@
 <div align="center">
 
 - 🎯 **21+ Repositories** created and maintained
-- 🔥 **365+ Contributions** in the last year
+- 🔥 **Active Contributor** with consistent project development
+- 📈 **Growing steadily** with 21+ repositories
 - 👥 **Growing Network** of developers and collaborators
 - 📚 **Continuous Learner** - Always exploring new technologies
 - 🌟 **Open Source Contributor** - Passionate about giving back to the community
+
+</div>
+
+### 🏆 Certifications
+
+<div align="center">
+
+- 🌩️ **Google Cloud Computing Foundations Certificate** - Google Cloud via Credly
+- 🤖 **Prompt Engineering Certification** - CSRBOX in collaboration with IBM SkillsBuild (December 2024)
+- 💻 **Java Full Stack Development Certificate** - Wipro Digital Skills Readiness Program with TalentNext (May-September 2024)
+- ☁️ **Industrial Internship Certificate** - Cloud Based Full Stack Development with AI/ML Analytics using MERN - Ardent Computech Pvt. Ltd.
 
 </div>
 
@@ -292,14 +310,14 @@
 </div>
 
 <!-- Goals -->
-### 🎯 2024 Goals
+### 🎯 2026 Goals
 
 - [ ] Contribute to 5+ major open source projects
-- [ ] Build and deploy 3 full-stack applications
+- [ ] Build and deploy 25 full-stack applications
 - [ ] Learn cloud architecture and get AWS certified
 - [ ] Write technical blog posts to help the community
 - [ ] Mentor junior developers
-- [ ] Reach 500+ GitHub followers
+- [ ] Reach very ambitious followers
 
 ---
 
