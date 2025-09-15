@@ -1,5 +1,5 @@
 <!-- Animated Wave Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Md%20Belal%20Ansari&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Building%20Tomorrow&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Md%20Belal%20Ansari&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Prompt%20Engineer&descAlignY=55&descAlign=50)
 
 <!-- Typing Animation -->
 <p align="center">
@@ -30,7 +30,7 @@
 - 🌱 I'm currently learning **Cloud Architecture & DevOps**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Full Stack Development**
-- 📫 How to reach me: **belal.grd.999@gmail.com**
+- 📫 How to reach me: **mohd.belal.ans@gmail.com**
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
 
 <br clear="both">
