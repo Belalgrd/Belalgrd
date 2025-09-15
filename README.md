@@ -235,11 +235,11 @@
 ### 🌍 Profile Analytics
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Belalgrd&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Belalgrd&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
 </div>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Belalgrd&icon=2&color=1" />
+  <img src="https://komarev.com/ghpvc/?username=Belalgrd&label=Total%20Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <!-- Support Section -->
