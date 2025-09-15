@@ -235,7 +235,7 @@
 ### 🌍 Visitor Map
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Belalgrd/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Belalgrd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 <!-- Support Section -->
