@@ -232,10 +232,14 @@
 </p>
 
 <!-- Visitor Map -->
-### 🌍 Visitor Map
+### 🌍 Profile Analytics
+
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Belalgrd&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Belalgrd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=Belalgrd&icon=2&color=1" />
 </p>
 
 <!-- Support Section -->
