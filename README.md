@@ -80,31 +80,35 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belalgrd&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </p>
 
-### 🚀 Featured Projects
+<!-- Recent Projects Showcase -->
+### 🚀 Recent Projects
 
 <div align="center">
+  
+  > 📧 **Delivera Lite** - Professional Email Delivery System (Private Repo) | [Live Demo](https://delivera-lite.vercel.app)
+  
   <table>
     <tr>
-      <td align="center">
-        <a href="https://github.com/Belalgrd/Belalgrd-delivera-lite">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Belalgrd-delivera-lite&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
       <td align="center">
         <a href="https://github.com/Belalgrd/billing-software">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=billing-software&theme=tokyonight&hide_border=true&bg_color=0D1117" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/Belalgrd/ocr-info-extractor">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=ocr-info-extractor&theme=tokyonight&hide_border=true&bg_color=0D1117" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <a href="https://github.com/Belalgrd/Rock-Paper-Scissors">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Rock-Paper-Scissors&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <a href="https://github.com/Belalgrd/Auth-Form">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=Auth-Form&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Belalgrd/facebook-clone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Belalgrd&repo=facebook-clone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
         </a>
       </td>
     </tr>
@@ -112,8 +116,8 @@
   
   <br/>
   
-  <a href="https://github.com/Belalgrd?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%2021+%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2F81F7" alt="View All Projects" />
+  <a href="https://github.com/Belalgrd?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20RECENT%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2F81F7" alt="View All Projects" />
   </a>
 </div>
 
