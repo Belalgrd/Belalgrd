@@ -211,14 +211,34 @@
 <!-- Support Section -->
 ### 💖 Support My Work
 
-<p align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px">
+        <img src="https://github.com/Belalgrd/Belalgrd/blob/main/images/QR_Payment.png" alt="Scan to Support" width="180" />
+        <br/><br/>
+        <b>Scan to Pay</b>
+      </td>
+      <td align="center" style="padding: 20px">
+        <h4>Support Options</h4>
+        
+  **UPI ID:** `belal.grd@ptyes`
+  
+  <br/>
+  
   <a href="https://www.buymeacoffee.com/belalgrd">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
   </a>
-  <a href="https://github.com/sponsors/Belalgrd">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
-  </a>
-</p>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/PayTM-00457C?style=flat&logo=paytm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPay-4285F4?style=flat&logo=googlepay&logoColor=white" />
+  <img src="https://img.shields.io/badge/PhonePe-5f259f?style=flat&logo=phonepe&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Fun Facts -->
 ### 🎯 Quick Facts
