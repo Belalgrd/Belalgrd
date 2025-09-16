@@ -330,3 +330,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
 </p>
+
+<div align="center">
+  
+⛔ **COPYRIGHT PROTECTED** ⛔
+
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![No Forks](https://img.shields.io/badge/Forks-Disabled-red.svg)](LICENSE)
+[![Legal Protection](https://img.shields.io/badge/Legal-Protected-red.svg)](LICENSE)
+
+**This code is proprietary. Unauthorized copying will result in legal action.**
+
+</div>
