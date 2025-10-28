@@ -68,10 +68,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belalgrd&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
 </p>
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belalgrd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
+<!-- Last Resort Streak (might work) -->
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Belalgrd&theme=dark&hide_border=true&background=0d1117" alt="Streak Stats" />
+</div>
 
 <!-- Activity Graph -->
 ### 📈 Contribution Graph
